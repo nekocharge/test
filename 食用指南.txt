@@ -75,3 +75,6 @@ yami-beta 食用指南（2021.2.15） 后续可能部分功能将会失效
 命令：猜拳@yami-beta
      骰子@yami-beta
      数字@yami-brta
+
+==签到==
+emmmm
